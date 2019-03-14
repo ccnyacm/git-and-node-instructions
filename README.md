@@ -1,8 +1,6 @@
-# api-workshop
+# Instructions
 
-ACM workshop to construct a basic API. We will be providing support for Mac and Linux users only.
-
-This API will have a basic endpoint of type `/GET` that will return a JSON of a list of books. This is a RESTful API. 
+These are the instructions to install Git and Node in your local Linux or Mac machine!
 
 ## To get started
 ### Environment Set Up
