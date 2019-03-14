@@ -1,6 +1,6 @@
 # Instructions
 
-These are the instructions to install Git and Node in your local Linux or Mac machine!
+These are the instructions to install Git and Node in your local Linux or Mac machine! There are also development tools links that you should have on your machine.
 
 ## To get started
 ### Environment Set Up
@@ -91,5 +91,10 @@ The node command runs the interpreter allowing you to run and evaluate JavaScrip
 
 If the nvm command is not working for you on the Mac, then check this section for additional troubleshooting: [https://github.com/creationix/nvm#install-script](https://github.com/creationix/nvm#install-script).
 
-## Tools to Test API
-For the purposes of testing the API, we will be using [Postman](https://www.getpostman.com/apps). Download the version corresponding to your machine.
+## Development Tools
+### Postman
+[Postman](https://www.getpostman.com/apps). Download the version corresponding to your machine.
+Postman allows you to test APIs and make sure your logic works.
+
+### Docker
+[Docker](https://www.docker.com/) allows you to work along different applications making sure your environments are the same within the applications
